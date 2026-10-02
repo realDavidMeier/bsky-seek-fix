@@ -4,7 +4,7 @@ Requires a userscript manager, such as Tampermonkey or Violentmonkey. Add the at
 
 ```
 // ==UserScript==
-// @name         Bluesky Firefox A/V Seek Fix
+// @name         Bluesky Seek Fix
 // @match        https://bsky.app/*
 // @run-at       document-start
 // @grant        none

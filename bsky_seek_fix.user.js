@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Bluesky Firefox A/V Seek Fix
+// @name         Bluesky Seek Fix
 // @match        https://bsky.app/*
 // @run-at       document-start
 // @grant        none
